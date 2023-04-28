@@ -9,6 +9,8 @@ Starterkit for OpenAI chat client based on your own content. Main ingredients:
 - TypeScript
 - [UnoCSS](https://unocss.dev)
 
+This template runs at [7-docs-aleph-pinecone.deno.dev](https://7-docs-aleph-pinecone.deno.dev).
+
 ## Install
 
 - [Use this template](https://github.com/7-docs/template-deno-aleph-pinecone/generate)
