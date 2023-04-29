@@ -32,6 +32,6 @@ jobs:
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: ***
+          project: 7-docs-aleph-pinecone
           entrypoint: server.ts
           import-map: import_map.json
