@@ -16,8 +16,7 @@
     "react-dom": "https://esm.sh/v117/react-dom@18.2.0",
     "react-dom/": "https://esm.sh/v117/react-dom@18.2.0/",
     "dotenv": "https://deno.land/std@0.183.0/dotenv/mod.ts",
-    "@7-docs/edge": "https://esm.sh/@7-docs/edge@0.0.6",
-    "@7-docs/edge/pinecone": "https://esm.sh/@7-docs/edge@0.0.6/pinecone",
+    "@7-docs/edge": "https://esm.sh/@7-docs/edge@0.1.0",
     "react-markdown": "https://esm.sh/react-markdown@7.1.2?&no-dts&external=react,react-dom",
     "react-syntax-highlighter": "https://esm.sh/react-syntax-highlighter@15.5.0?no-dts&external=react,react-dom",
     "react-syntax-highlighter/": "https://esm.sh/react-syntax-highlighter@15.5.0&no-dts&external=react,react-dom/"
