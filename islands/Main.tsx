@@ -5,7 +5,7 @@ import { Output } from '../components/Output.tsx';
 import { Sources } from '../components/Sources.tsx';
 import { useConversation } from '../hooks/useConversation.ts';
 import { useStream } from '../hooks/useStream.ts';
-import { namespace, suggestions } from '../config.ts';
+import { title, suggestions } from '../config.ts';
 import type { FormEventHandler, ChangeEventHandler } from 'react';
 
 export default function Main() {
@@ -48,7 +48,7 @@ export default function Main() {
     <main className="max-w-prose mx-auto h-screen">
       <div className="h-full relative flex flex-col">
         <header className="flex flex-row items-center justify-between py-4">
-          <h1 className="text-3xl">{namespace}</h1>
+          <h1 className="text-3xl">{title}</h1>
           <a href="https://github.com/7-docs/7-docs" className="text-xs italic hover:underline">
             Powered by 7-docs
           </a>

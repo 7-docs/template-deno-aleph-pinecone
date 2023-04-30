@@ -3,6 +3,8 @@ export const completionModels = ['gpt-3.5-turbo'];
 
 export const namespace = 'deno-manual';
 
+export const title = 'Deno Manual';
+
 export const suggestions = [
   'What is Deno?',
   "Why can't my program access the network?",
